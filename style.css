@@ -12,7 +12,6 @@ body {
 }
 
 
-/* ================= NAVBAR ================= */
 
 .navbar {
     min-height: 62px;
@@ -57,7 +56,6 @@ body {
 }
 
 
-/* ================= HERO ================= */
 
 .hero {
     background: #e8efff;
@@ -144,7 +142,6 @@ body {
 }
 
 
-/* ================= FEATURES ================= */
 
 .features-section {
     position: relative;
@@ -202,7 +199,6 @@ body {
 }
 
 
-/* ================= PRODUCTS ================= */
 
 .products-section {
     padding: 23px 0 21px;
@@ -303,8 +299,6 @@ body {
     color: white;
 }
 
-
-/* ================= FOOTER ================= */
 
 .footer {
     background: #0c1931;
@@ -409,7 +403,6 @@ body {
 }
 
 
-/* ================= RESPONSIVE ================= */
 
 @media (max-width: 991px) {
 
